@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @romainsaillant
+- 👀 I’m interested in Growth, Automation tools, and Web development
+- 💻 My personal website: https://romainsaillant.com/
